@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/obj/Debug/net5.0/ATMSequenceDiagram.csproj.AssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/obj/Debug/net5.0/ATMSequenceDiagram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/obj/Debug/net5.0/ATMSequenceDiagram.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/obj/Debug/net5.0/ATMSequenceDiagram.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/obj/Debug/net5.0/ATMSequenceDiagram.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/bin/Debug/net5.0/ATMSequenceDiagram.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/bin/Debug/net5.0/ATMSequenceDiagram.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/bin/Debug/net5.0/ATMSequenceDiagram.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/bin/Debug/net5.0/ATMSequenceDiagram.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/bin/Debug/net5.0/ref/ATMSequenceDiagram.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/bin/Debug/net5.0/ATMSequenceDiagram.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/obj/Debug/net5.0/ATMSequenceDiagram.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/obj/Debug/net5.0/ref/ATMSequenceDiagram.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/obj/Debug/net5.0/ATMSequenceDiagram.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/ATMSequenceDiagram/obj/Debug/net5.0/ATMSequenceDiagram.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/bin/Debug/net5.0/ClassDiagram.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/bin/Debug/net5.0/ClassDiagram.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/bin/Debug/net5.0/ClassDiagram.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/bin/Debug/net5.0/ClassDiagram.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/bin/Debug/net5.0/ref/ClassDiagram.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/bin/Debug/net5.0/ClassDiagram.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/obj/Debug/net5.0/ClassDiagram.csproj.AssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/obj/Debug/net5.0/ClassDiagram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/obj/Debug/net5.0/ClassDiagram.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/obj/Debug/net5.0/ClassDiagram.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/obj/Debug/net5.0/ClassDiagram.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/obj/Debug/net5.0/ClassDiagram.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/obj/Debug/net5.0/ref/ClassDiagram.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/obj/Debug/net5.0/ClassDiagram.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/ClassDiagram/obj/Debug/net5.0/ClassDiagram.genruntimeconfig.cache

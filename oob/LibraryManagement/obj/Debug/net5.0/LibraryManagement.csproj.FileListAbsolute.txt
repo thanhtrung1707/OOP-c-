@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/bin/Debug/net5.0/LibraryManagement.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/bin/Debug/net5.0/LibraryManagement.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/bin/Debug/net5.0/LibraryManagement.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/bin/Debug/net5.0/LibraryManagement.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/bin/Debug/net5.0/ref/LibraryManagement.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/bin/Debug/net5.0/LibraryManagement.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/obj/Debug/net5.0/LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/obj/Debug/net5.0/LibraryManagement.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/obj/Debug/net5.0/LibraryManagement.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/obj/Debug/net5.0/LibraryManagement.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/obj/Debug/net5.0/LibraryManagement.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/obj/Debug/net5.0/ref/LibraryManagement.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/obj/Debug/net5.0/LibraryManagement.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/obj/Debug/net5.0/LibraryManagement.genruntimeconfig.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/LibraryManagement/obj/Debug/net5.0/LibraryManagement.csprojAssemblyReference.cache

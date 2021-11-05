@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/bin/Debug/net5.0/UnitTesting.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/bin/Debug/net5.0/UnitTesting.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/bin/Debug/net5.0/UnitTesting.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/bin/Debug/net5.0/UnitTesting.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/bin/Debug/net5.0/ref/UnitTesting.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/bin/Debug/net5.0/UnitTesting.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/obj/Debug/net5.0/UnitTesting.csproj.AssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/obj/Debug/net5.0/UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/obj/Debug/net5.0/UnitTesting.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/obj/Debug/net5.0/UnitTesting.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/obj/Debug/net5.0/UnitTesting.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/obj/Debug/net5.0/UnitTesting.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/obj/Debug/net5.0/ref/UnitTesting.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/obj/Debug/net5.0/UnitTesting.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/UnitTesting/obj/Debug/net5.0/UnitTesting.genruntimeconfig.cache

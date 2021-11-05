@@ -1,0 +1,5 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/Inheritance/obj/Debug/net5.0/Inheritance.csproj.AssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache

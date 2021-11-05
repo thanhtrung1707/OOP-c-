@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/bin/Debug/net5.0/PizzaStore.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/bin/Debug/net5.0/PizzaStore.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/bin/Debug/net5.0/PizzaStore.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/bin/Debug/net5.0/PizzaStore.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/bin/Debug/net5.0/ref/PizzaStore.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/bin/Debug/net5.0/PizzaStore.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/obj/Debug/net5.0/PizzaStore.csproj.AssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/obj/Debug/net5.0/PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/obj/Debug/net5.0/PizzaStore.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/obj/Debug/net5.0/PizzaStore.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/obj/Debug/net5.0/PizzaStore.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/obj/Debug/net5.0/PizzaStore.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/obj/Debug/net5.0/ref/PizzaStore.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/obj/Debug/net5.0/PizzaStore.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/PizzaStore/obj/Debug/net5.0/PizzaStore.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/bin/Debug/net5.0/BaiTapQlSV.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/bin/Debug/net5.0/BaiTapQlSV.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/bin/Debug/net5.0/BaiTapQlSV.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/bin/Debug/net5.0/BaiTapQlSV.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/bin/Debug/net5.0/ref/BaiTapQlSV.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/bin/Debug/net5.0/BaiTapQlSV.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/obj/Debug/net5.0/BaiTapQlSV.csprojAssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/obj/Debug/net5.0/BaiTapQlSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/obj/Debug/net5.0/BaiTapQlSV.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/obj/Debug/net5.0/BaiTapQlSV.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/obj/Debug/net5.0/BaiTapQlSV.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/obj/Debug/net5.0/BaiTapQlSV.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/obj/Debug/net5.0/ref/BaiTapQlSV.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/obj/Debug/net5.0/BaiTapQlSV.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/BaiTapQlSV/obj/Debug/net5.0/BaiTapQlSV.genruntimeconfig.cache

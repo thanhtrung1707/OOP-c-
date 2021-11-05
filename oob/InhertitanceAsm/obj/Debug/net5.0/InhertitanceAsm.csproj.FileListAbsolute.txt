@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/bin/Debug/net5.0/InhertitanceAsm.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/bin/Debug/net5.0/InhertitanceAsm.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/bin/Debug/net5.0/InhertitanceAsm.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/bin/Debug/net5.0/InhertitanceAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/bin/Debug/net5.0/ref/InhertitanceAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/bin/Debug/net5.0/InhertitanceAsm.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/obj/Debug/net5.0/InhertitanceAsm.csprojAssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/obj/Debug/net5.0/InhertitanceAsm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/obj/Debug/net5.0/InhertitanceAsm.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/obj/Debug/net5.0/InhertitanceAsm.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/obj/Debug/net5.0/InhertitanceAsm.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/obj/Debug/net5.0/InhertitanceAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/obj/Debug/net5.0/ref/InhertitanceAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/obj/Debug/net5.0/InhertitanceAsm.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/InhertitanceAsm/obj/Debug/net5.0/InhertitanceAsm.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/obj/Debug/net5.0/PolymorphismAsm.csprojAssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/obj/Debug/net5.0/PolymorphismAsm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/obj/Debug/net5.0/PolymorphismAsm.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/obj/Debug/net5.0/PolymorphismAsm.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/obj/Debug/net5.0/PolymorphismAsm.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/bin/Debug/net5.0/PolymorphismAsm.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/bin/Debug/net5.0/PolymorphismAsm.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/bin/Debug/net5.0/PolymorphismAsm.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/bin/Debug/net5.0/PolymorphismAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/bin/Debug/net5.0/ref/PolymorphismAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/bin/Debug/net5.0/PolymorphismAsm.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/obj/Debug/net5.0/PolymorphismAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/obj/Debug/net5.0/ref/PolymorphismAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/obj/Debug/net5.0/PolymorphismAsm.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/PolymorphismAsm/obj/Debug/net5.0/PolymorphismAsm.genruntimeconfig.cache

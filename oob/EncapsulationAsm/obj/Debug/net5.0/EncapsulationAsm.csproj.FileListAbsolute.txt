@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/bin/Debug/net5.0/EncapsulationAsm.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/bin/Debug/net5.0/EncapsulationAsm.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/bin/Debug/net5.0/EncapsulationAsm.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/bin/Debug/net5.0/EncapsulationAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/bin/Debug/net5.0/ref/EncapsulationAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/bin/Debug/net5.0/EncapsulationAsm.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/obj/Debug/net5.0/EncapsulationAsm.csprojAssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/obj/Debug/net5.0/EncapsulationAsm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/obj/Debug/net5.0/EncapsulationAsm.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/obj/Debug/net5.0/EncapsulationAsm.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/obj/Debug/net5.0/EncapsulationAsm.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/obj/Debug/net5.0/EncapsulationAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/obj/Debug/net5.0/ref/EncapsulationAsm.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/obj/Debug/net5.0/EncapsulationAsm.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/EncapsulationAsm/obj/Debug/net5.0/EncapsulationAsm.genruntimeconfig.cache

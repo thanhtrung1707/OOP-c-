@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/bin/Debug/net5.0/AggregationASM.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/bin/Debug/net5.0/AggregationASM.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/bin/Debug/net5.0/AggregationASM.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/bin/Debug/net5.0/AggregationASM.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/bin/Debug/net5.0/ref/AggregationASM.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/bin/Debug/net5.0/AggregationASM.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/obj/Debug/net5.0/AggregationASM.csprojAssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/obj/Debug/net5.0/AggregationASM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/obj/Debug/net5.0/AggregationASM.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/obj/Debug/net5.0/AggregationASM.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/obj/Debug/net5.0/AggregationASM.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/obj/Debug/net5.0/AggregationASM.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/obj/Debug/net5.0/ref/AggregationASM.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/obj/Debug/net5.0/AggregationASM.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/AggregationASM/obj/Debug/net5.0/AggregationASM.genruntimeconfig.cache

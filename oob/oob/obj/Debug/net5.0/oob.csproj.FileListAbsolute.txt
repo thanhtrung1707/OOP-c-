@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/bin/Debug/net5.0/oob.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/bin/Debug/net5.0/oob.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/bin/Debug/net5.0/oob.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/bin/Debug/net5.0/oob.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/bin/Debug/net5.0/ref/oob.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/bin/Debug/net5.0/oob.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/obj/Debug/net5.0/oob.csproj.AssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/obj/Debug/net5.0/oob.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/obj/Debug/net5.0/oob.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/obj/Debug/net5.0/oob.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/obj/Debug/net5.0/oob.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/obj/Debug/net5.0/oob.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/obj/Debug/net5.0/ref/oob.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/obj/Debug/net5.0/oob.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/oob/obj/Debug/net5.0/oob.genruntimeconfig.cache

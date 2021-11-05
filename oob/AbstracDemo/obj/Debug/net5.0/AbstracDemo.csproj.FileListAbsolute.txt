@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/bin/Debug/net5.0/AbstracDemo.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/bin/Debug/net5.0/AbstracDemo.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/bin/Debug/net5.0/AbstracDemo.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/bin/Debug/net5.0/AbstracDemo.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/bin/Debug/net5.0/ref/AbstracDemo.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/bin/Debug/net5.0/AbstracDemo.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/obj/Debug/net5.0/AbstracDemo.csprojAssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/obj/Debug/net5.0/AbstracDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/obj/Debug/net5.0/AbstracDemo.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/obj/Debug/net5.0/AbstracDemo.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/obj/Debug/net5.0/AbstracDemo.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/obj/Debug/net5.0/AbstracDemo.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/obj/Debug/net5.0/ref/AbstracDemo.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/obj/Debug/net5.0/AbstracDemo.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/AbstracDemo/obj/Debug/net5.0/AbstracDemo.genruntimeconfig.cache

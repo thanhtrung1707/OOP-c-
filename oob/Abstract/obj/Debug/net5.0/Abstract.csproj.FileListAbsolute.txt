@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/bin/Debug/net5.0/Abstract.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/bin/Debug/net5.0/Abstract.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/bin/Debug/net5.0/Abstract.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/bin/Debug/net5.0/Abstract.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/bin/Debug/net5.0/ref/Abstract.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/bin/Debug/net5.0/Abstract.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/obj/Debug/net5.0/Abstract.csprojAssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/obj/Debug/net5.0/Abstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/obj/Debug/net5.0/Abstract.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/obj/Debug/net5.0/Abstract.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/obj/Debug/net5.0/Abstract.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/obj/Debug/net5.0/Abstract.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/obj/Debug/net5.0/ref/Abstract.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/obj/Debug/net5.0/Abstract.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/Abstract/obj/Debug/net5.0/Abstract.genruntimeconfig.cache

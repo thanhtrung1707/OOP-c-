@@ -1,0 +1,15 @@
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/bin/Debug/net5.0/Association.deps.json
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/bin/Debug/net5.0/Association.runtimeconfig.json
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/bin/Debug/net5.0/Association.runtimeconfig.dev.json
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/bin/Debug/net5.0/Association.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/bin/Debug/net5.0/ref/Association.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/bin/Debug/net5.0/Association.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/obj/Debug/net5.0/Association.csprojAssemblyReference.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/obj/Debug/net5.0/Association.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/obj/Debug/net5.0/Association.AssemblyInfoInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/obj/Debug/net5.0/Association.AssemblyInfo.cs
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/obj/Debug/net5.0/Association.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/obj/Debug/net5.0/Association.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/obj/Debug/net5.0/ref/Association.dll
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/obj/Debug/net5.0/Association.pdb
+/Users/nguyenthanhtrung/RiderProjects/oob/Association/obj/Debug/net5.0/Association.genruntimeconfig.cache
